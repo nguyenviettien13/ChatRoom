@@ -1,0 +1,4 @@
+﻿Làm thế nào để truyền nhiều tham số cho một thread.
+Cách xử lý: Tạo  một đối tượng chứa tất cả các tham số đó. Hơi đần đồn nhưng biết mỗi cách đó
+Ý nghĩa của ntohl và htonl: Hai hàm này dùng để chuẩn hóa trong trường hợp kiến trúc máy tính khác nhau về cách mã hóa big endian và little endian...
+2 hàm này stand for : network to host và host to network.
